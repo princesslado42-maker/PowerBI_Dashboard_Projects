@@ -1,0 +1,24 @@
+# COVID-19 Data Analysis and Prediction (Python)
+
+## 📌 Project Overview
+This project focuses on analyzing COVID-19 data using Python. The dataset was cleaned, processed, and visualized to identify trends and patterns. Machine learning techniques were also applied to predict outcomes and evaluate model performance.
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+## 📊 Features
+- Data Cleaning and Preprocessing
+- Missing Values and Duplicate Check
+- Data Visualization using Charts and Graphs
+- Trend and Pattern Analysis
+- Random Forest Model for Prediction
+- Model Accuracy Evaluation
+
+## 📈 Outcome
+The project provides insights into COVID-19 trends through data analysis and visualization. A Random Forest model was used to make predictions and evaluate performance, helping understand patterns in the dataset.
